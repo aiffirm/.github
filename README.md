@@ -1,6 +1,6 @@
 # .github
 
-\_Community health files for the [@aiffirm](https://github.com/aiffirm) organization
+_Community health files for the [@aiffirm](https://github.com/aiffirm) organization_
 
 ## License
 
