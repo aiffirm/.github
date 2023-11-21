@@ -1,6 +1,6 @@
 # Introducing [AIFFIRM]
 
-![banner with the AIFFIRM logo](banner.png)
+![banner with the AIFFIRM logo](https://github.com/aiffirm/.github/blob/67a640b135aaf0893e7ed989af8975e08b8c0c7a/profile/banner.png)
 
 Your GitHub sidekick that's here to turn coding challenges into a positivity
 party!
